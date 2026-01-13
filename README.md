@@ -16,25 +16,27 @@
 - **Dataset:** IMDb Movie Reviews
 
 ## 📂 Project Structure
+```
 sentiment-app/
 ├── backend/
-│ ├── main.py
-│ ├── train.py
-│ ├── requirements.txt
-│ ├── data.csv
-│ └── model/
-│ ├── sentiment_model.pkl
-│ └── tfidf.pkl
+│   ├── main.py
+│   ├── train.py
+│   ├── requirements.txt
+│   ├── data.csv
+│   └── model/
+│       ├── sentiment_model.pkl
+│       └── tfidf.pkl
 │
 ├── frontend/
-│ ├── public/
-│ │ └── index.html
-│ ├── src/
-│ │ ├── App.js
-│ │ ├── App.css
-│ │ ├── api.js
-│ │ └── index.js
-│ ├── package.json
-│ └── package-lock.json
+│   ├── public/
+│   │   └── index.html
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   ├── api.js
+│   │   └── index.js
+│   ├── package.json
+│   └── package-lock.json
 │
 └── README.md
+```
