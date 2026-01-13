@@ -17,7 +17,6 @@
 
 ## 📂 Project Structure
 sentiment-app/
-│
 ├── backend/
 │ ├── main.py
 │ ├── train.py
