@@ -17,6 +17,8 @@
 
 ## 📂 Project Structure
 ```
+
+```text
 sentiment-app/
 ├── backend/
 │   ├── main.py
